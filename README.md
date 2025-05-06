@@ -1,6 +1,5 @@
 # Linux Backup Automation System
 
-![Backup System Banner](https://raw.githubusercontent.com/Arshnoor-Singh-Sohi/Linux-Backup-Automation-System/main/assets/banner.png)
 
 [![Bash Version](https://img.shields.io/badge/Bash-4.0%2B-green.svg)](https://www.gnu.org/software/bash/)
 [![OS](https://img.shields.io/badge/OS-Linux-orange.svg)](https://www.linux.org/)
